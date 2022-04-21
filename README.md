@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABCodez
+- 👋 Hi, I’m @ABCodez https://abcodez.github.io/AbdulsPortfolio/#/home
 - 👀 I’m interested in Software Development, Android/Web Developement, and much more!
 - 🌱 I’m currently obtaining my Bachelors of Computing and Business!
 - 📫 Checkout and reach me on Linkedin www.linkedin.com/in/abdulbasit27
