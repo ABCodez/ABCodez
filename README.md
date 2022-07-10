@@ -1,6 +1,5 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi! My name is Abdul Basit :)
+Hi! My name is Abdul Basit ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
-
 
 
 * 🖥️  See my portfolio at [abasit.me](http://abasit.me)
@@ -38,8 +37,12 @@
 
 <a href="http://www.github.com/abcodez"><img src="https://github-readme-stats.vercel.app/api?username=abcodez&show_icons=true&hide=prs,contribs&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="abcodez's GitHub stats" /></a>
 
-<a href="http://www.github.com/abcodez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abcodez&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/abcodez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcodez&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/abcodez"><img src="https://activity-graph.herokuapp.com/graph?username=abcodez&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<b>Top Repositories</b>
 
-<a href="https://github.com/abcodez" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcodez&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div width="100%" align="center"><a href="https://github.com/abcodez/faceRecognition" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abcodez&repo=faceRecognition&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/abcodez/Objectdetection" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abcodez&repo=Objectdetection&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/abcodez/Abdulsportfolio.github.io" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abcodez&repo=Abdulsportfolio.github.io&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/abcodez/PuzzledULHacks2021" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abcodez&repo=PuzzledULHacks2021&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
